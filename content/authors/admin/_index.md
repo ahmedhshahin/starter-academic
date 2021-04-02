@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ahmed H. Shahin (website under construction)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student at University College London
 
 # Organizations/Affiliations to show in About widget
 organizations:
