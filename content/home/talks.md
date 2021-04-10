@@ -10,7 +10,7 @@ active: false
 weight: 70
 
 # Activate this widget? true/false
-active: true
+active: false
 
 title: 'Recent & Upcoming Talks'
 subtitle:
