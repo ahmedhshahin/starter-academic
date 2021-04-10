@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ahmed.shahin.19@ucl.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ahmedhshahin
@@ -69,7 +69,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ahmed.shahin.19@ucl.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -78,6 +78,6 @@ highlight_name: false
 My name is Ahmed, and I am a PhD student in the <a href="https://www.ucl.ac.uk/computer-science/" target="_blank" rel="noopener">Department of Computer Science</a> at UCL. I am supervised by <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php" target="_blank" rel="noopener">David Barber</a> at the <a href="https://www.ucl.ac.uk/ai-centre/" target="_blank" rel="noopener">UCL AI Centre</a> and <a href="http://www0.cs.ucl.ac.uk/staff/d.alexander/" target="_blank" rel="noopener">Daniel Alexander</a> at the <a href="https://www.ucl.ac.uk/medical-image-computing/" target="_blank" rel="noopener">UCL Centre for Medical Image Computing</a>. My current research focuses on developing machine learning methods for the prognosis and diagnosis of Interstitial Lung Diseases from medical images and other clinical information, as part of the 
 <a href="https://www.osicild.org/" target="_blank" rel="noopener">Open Source Imaging Consortium (OSIC)</a> efforts to enable rabid advances in the fight against the various respiratory diseases.
 
-Prior to UCL, I worked as a senior machine learning engineer at <a href="https://www.intixel.com/" target="_blank" rel="noopener">Intixel</a> (Cairo-based startup for AI in radiology) and spent a six-months research internship at <a href="http://inceptioniai.org/" target="_blank" rel="noopener">Inception Institute of AI</a> in Abu Dhabi. I got my BSc and MSc from Mansoura University and Nile University in 2017 and 2019, respectively. Further, I have first-author research papers published in MICCAI and ISBI conferences for medical imaging and served as a reviewer for the International Journal of Computer Vision (IJCV) and NILES'19 conference. 
+Prior to UCL, I worked as a senior machine learning engineer at <a href="https://www.intixel.com/" target="_blank" rel="noopener">Intixel</a> (Cairo-based startup for AI in radiology) and spent a six-months research internship at <a href="http://inceptioniai.org/" target="_blank" rel="noopener">Inception Institute of AI</a> in Abu Dhabi. I got my BSc and MSc from Mansoura University and Nile University in 2017 and 2019, respectively. Further, I have first-author research papers published in MICCAI and ISBI conferences and served as a reviewer for the International Journal of Computer Vision (IJCV) and NILES'19 conference. 
 
 {{< icon name="download" pack="fas" >}}{{< staticref "media/Ahmed_Shahin_Resume.pdf" "newtab" >}}Download my CV{{< /staticref >}} (last updated 10/04/2021).
