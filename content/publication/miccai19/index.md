@@ -43,6 +43,6 @@ publication_types:
 - '1'
 abstract: 'To automate the process of segmenting an anatomy of interest, we can learn a model from previously annotated data. The learning-based approach uses annotations to train a model that tries to emulate the expert labeling on a new data set. While tremendous progress has been made using such approaches, labeling of medical images remains a time-consuming and expensive task. In this paper, we evaluate the utility of extreme points in learning to segment. Specifically, we propose a novel approach to compute a confidence map from extreme points that quantitatively encodes the priors derived from extreme points. We use the confidence map as a cue to train a deep neural network based on ResNet-101 and PSP module to develop a class-agnostic segmentation model that outperforms state-of-the-art method that employs extreme points as a cue. Further, we evaluate a realistic use-case by using our model to generate training data for supervised learning (U-Net) and observed that U-Net performs comparably when trained with either the generated data or the ground truth data. These findings suggest that models trained using cues can be used to generate reliable training data.'
 publication: 'In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)'
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-32245-8_8
+url_pdf: /publication/miccai19/paper.pdf
 url_code: https://github.com/ahmedshahin9/AssistedAnnotator
 ---
