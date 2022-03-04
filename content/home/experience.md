@@ -34,7 +34,8 @@ experience:
     description: |2-
         * Topic: Machine Learning for High-Resolution Lung Image Analysis
         * Supervisors: <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php" target="_blank" rel="noopener">David Barber</a> and <a href="http://www0.cs.ucl.ac.uk/staff/d.alexander/" target="_blank" rel="noopener">Daniel Alexander</a>
-        * Worked as a Graduate Teaching Assistant in COMP0016 Systems Engineering course (Autumn 2020 & Winter 2021) to supervise students with their computer vision and machine learning projects.
+        * Worked as a Graduate Teaching Assistant in COMP0016 Systems Engineering course (2020/2021, 2021/2022) to supervise students with their computer vision and machine learning projects.
+        * Worked as a Graduate Teaching Assistant in COMP0090 Introduction to Deep Learning course (Autumn 2021).
         
   - title: Machine Learning Consultant
     company: Data Science Systems
